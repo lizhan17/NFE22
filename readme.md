@@ -17,7 +17,7 @@ pip install -r requirements.txt
 checked with python 3.10.4 and conda 4.12.0 <br/>
 
 ## Download demo data folder with pretrained weight. 
-[data folder]()
+[data folder](https://drive.google.com/file/d/16Oqlegy_ruDNABwOIj98nzjUKWgQoICp/view?usp=sharing)
 place unzipped data folder under NFE, so it would be like 
 ```shell
 NFE
