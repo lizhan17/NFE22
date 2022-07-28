@@ -1,0 +1,12 @@
+numpy
+sklearn
+h5py
+jupyter
+scikit-image
+pillow
+tqdm
+tensorboardX
+opencv-python
+natsort
+torch
+matplotlib
